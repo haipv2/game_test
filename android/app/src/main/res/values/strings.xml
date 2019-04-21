@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Caro</string>
+
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <!--<string name="facebook_app_id">285315185217069</string>-->
+    <string name="facebook_app_id">272303263700137</string>
+
+
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <!--<string name="fb_login_protocol_scheme">fb285315185217069</string>-->
+    <string name="fb_login_protocol_scheme">fb272303263700137</string>
+</resources>
