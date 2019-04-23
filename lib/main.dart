@@ -58,7 +58,7 @@ class _CaroAppState extends State<CaroApp> {
     bool seen = (widget.prefs.getBool('seen') ?? false);
 //    bool setLanguage = (prefs.getBool('setLanguage') ?? false);
     if (seen) {
-      return new RegisterScreen();
+      return new SignInScreen();
     } else {
 //      return new LanguageScreen(prefs: prefs);
       return new TipsScreen(prefs: widget.prefs);
